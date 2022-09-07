@@ -12,7 +12,7 @@ Upload file to Server with Ftp (Telegram Bot)
 <Strong>If there is a point left that was not mentioned in this document or if you have an opinion, send it in Telegram </Strong>
 
 <h2>Contact me:</h2>
-<li><a href="https://appduny.t.me">Telegram Pv</a></li>
+<li><a href="https://DeAref.t.me">Telegram Pv</a></li>
 <li><a href="https://appduny.t.me">Telegram Channel</a></li>
 <li><a href="mailto://aref@post.ir">Email</li>
 
