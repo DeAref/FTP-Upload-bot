@@ -1,4 +1,4 @@
-# OmegaBot
+# FTP Upload via Telegram
 <h2> telegram bot for Upload file to Server with Ftp (php) </h2>
 <h2> how to install </h2>
 <li> preparation shared host (linux) </li>
